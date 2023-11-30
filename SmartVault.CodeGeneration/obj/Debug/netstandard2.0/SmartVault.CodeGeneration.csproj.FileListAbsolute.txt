@@ -1,0 +1,10 @@
+C:\Users\David Bonilla\Desktop\velozient assessment\HardChallenge\SmartVault.CodeGeneration\bin\Debug\netstandard2.0\SmartVault.CodeGeneration.deps.json
+C:\Users\David Bonilla\Desktop\velozient assessment\HardChallenge\SmartVault.CodeGeneration\bin\Debug\netstandard2.0\SmartVault.CodeGeneration.dll
+C:\Users\David Bonilla\Desktop\velozient assessment\HardChallenge\SmartVault.CodeGeneration\bin\Debug\netstandard2.0\SmartVault.CodeGeneration.pdb
+C:\Users\David Bonilla\Desktop\velozient assessment\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.csproj.AssemblyReference.cache
+C:\Users\David Bonilla\Desktop\velozient assessment\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Bonilla\Desktop\velozient assessment\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.AssemblyInfoInputs.cache
+C:\Users\David Bonilla\Desktop\velozient assessment\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.AssemblyInfo.cs
+C:\Users\David Bonilla\Desktop\velozient assessment\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.csproj.CoreCompileInputs.cache
+C:\Users\David Bonilla\Desktop\velozient assessment\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.dll
+C:\Users\David Bonilla\Desktop\velozient assessment\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.pdb
